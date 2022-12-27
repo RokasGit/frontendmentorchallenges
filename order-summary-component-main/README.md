@@ -30,12 +30,10 @@ Users should be able to:
 
 <img src="./images/Screenshot 2022-12-27 at 10.31.38 PM.jpeg" alt="screenshot of live preview">
 
-**Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
-
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution url](https://github.com/RokasGit/frontendmentorchallenges/tree/main/order-summary-component-main)
+- Live Site URL: [Vercel preview](https://frontendmentorchallenges-p78fb4vjv-errorbyproject.vercel.app/order-summary-component-main)
 
 ## My process
 
