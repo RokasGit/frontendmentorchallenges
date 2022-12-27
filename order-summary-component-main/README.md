@@ -51,4 +51,4 @@ In the future I will be recapping how to use javascript correctly with html and 
 ## Author
 
 - Website - [Rokas Paulauskas](https://github.com/rokasgit)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/RokasGit)
+- Frontend Mentor - [@RokasGit](https://www.frontendmentor.io/profile/RokasGit)
