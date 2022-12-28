@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Solution url](https://github.com/RokasGit/frontendmentorchallenges/tree/main/order-summary-component-main)
-- Live Site URL: [Vercel preview](https://frontendmentorchallenges-p78fb4vjv-errorbyproject.vercel.app/order-summary-component-main)
+- Live Site URL: [Vercel preview](https://frontendmentorchallenges.vercel.app/order-summary-component-main)
 
 ## My process
 
